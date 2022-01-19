@@ -1,3 +1,11 @@
 #new file
 new addition
+
 this is the conflict 
+
+another addition i'm making
+
+adganondas
+this is a new line
+
+
